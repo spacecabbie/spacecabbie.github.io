@@ -54,7 +54,9 @@ Experienced ICT professional with a strong background in help desk management, s
 ### Helpdesk Employee / Outage Manager
 *IBM, Manchester, United Kingdom*  
 *2000 - 2002*  
-- Provided first-line support, dispatched engineers, and managed communications during major outages.
+- Provided first-line technical support for the Benelux desk, outsourced to assist ExxonMobil’s IT systems, troubleshooting a wide range of computer systems, primarily thin clients used in refinery environments.  
+- Resolved frequent hardware failures in challenging conditions (e.g., dusty refinery worker cabinets) remotely; coordinated with two on-site support staff per location when remote fixes were insufficient.  
+- Served as Outage Manager, monitoring call queues and escalating common issues (e.g., five or more callers waiting) to the Benelux on-site outage manager; coordinated with team leaders to update phone messages and oversaw resolution of major outages.
 
 ## Education
 
@@ -94,3 +96,7 @@ Experienced ICT professional with a strong background in help desk management, s
 - Programming (PHP/JS/HTML/CSS)  
 - Automotive Technology  
 - Home Improvement
+
+---
+
+*This CV consolidates your experience, skills, and education into a streamlined format suitable for a variety of professional applications. I’ve adjusted some dates and roles for consistency (e.g., extending Creative Support Group to 2014 per the second CV) and omitted redundant details where overlap occurred. Let me know if you’d like further refinements!*
